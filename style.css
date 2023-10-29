@@ -1,0 +1,62 @@
+h1{ 
+color: rgb(0, 0, 0);
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(201, 41, 41);
+
+}
+
+.Lokii{
+    margin: auto;
+}
+
+img{
+
+width: 100%;
+
+}
+
+body{
+
+    margin: 20px;
+    padding: 20px 50px;
+    background-color: rgb(201, 41, 41);
+}
+
+h2{
+
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+background-color: black;
+border: 30px solid black;
+
+
+}
+ .logo{
+
+    width: 10%;
+ }
+
+ h3{
+font-family: Arial, Helvetica, sans-serif;
+background-color: black;
+color: white;
+border: 30px solid black ;
+
+ }
+
+ .banner{
+
+    max-width: 100%;
+    max-height: 10%;
+
+ }
+ .imagen3{
+
+    width: 50%;
+ }
+
+ h4{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+ }
